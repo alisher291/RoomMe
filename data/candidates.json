@@ -1,0 +1,497 @@
+[
+  {
+    "id": "maya",
+    "name": "Maya Chen",
+    "initials": "MC",
+    "intro": "An early-rising museum educator who loves a calm kitchen and weekend walks.",
+    "answers": {
+      "structured": {
+        "bedtime": "22:30",
+        "pets": "0",
+        "work": "0",
+        "visitors": "1",
+        "overnight": "1",
+        "relationship": "1",
+        "noise": "1",
+        "wake": "06:30",
+        "smoking": "0",
+        "clean": "0"
+      },
+      "open": {
+        "dishes": "I wash dishes immediately and would ask us to do the same after every meal.",
+        "chores": "I would rotate bathroom, floors, and bins each week, while everyone handles their own dishes.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I read with tea after dinner and pack lunch for the next day.",
+        "disagreements": "I prefer a direct, private conversation once we have both had time to cool down. For conflicting plans, I would agree on a schedule.",
+        "boundaries": "I need quiet after 10:30 because I lead early school visits."
+      }
+    },
+    "boundaries": [
+      "I need quiet after 10:30 because I lead early school visits.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "I wash dishes immediately and would ask us to do the same after every meal."
+    ]
+  },
+  {
+    "id": "leo",
+    "name": "Leo Rivera",
+    "initials": "LR",
+    "intro": "A hybrid graphic designer, enthusiastic home cook, and occasional board-game host.",
+    "answers": {
+      "structured": {
+        "bedtime": "00:00",
+        "pets": "1",
+        "work": "1",
+        "visitors": "2",
+        "overnight": "2",
+        "relationship": "2",
+        "noise": "2",
+        "wake": "08:30",
+        "smoking": "0",
+        "clean": "1"
+      },
+      "open": {
+        "dishes": "A few hours is fine, but I would ask us to clear the sink before it blocks someone else.",
+        "chores": "I like each person owning a few regular chores, then checking monthly that the split still feels fair.",
+        "guests": "One or two nights a week is fine with advance notice and respect for shared spaces.",
+        "evening": "I cook something new, put on a playlist, and sketch or catch up with friends.",
+        "disagreements": "Please raise issues early. I like talking over tea and writing down any practical agreement so we both remember it.",
+        "boundaries": "I enjoy a weekly game night, but can agree on a finishing time."
+      }
+    },
+    "boundaries": [
+      "I enjoy a weekly game night, but can agree on a finishing time.",
+      "One or two nights a week is fine with advance notice and respect for shared spaces.",
+      "A few hours is fine, but I would ask us to clear the sink before it blocks someone else."
+    ]
+  },
+  {
+    "id": "aisha",
+    "name": "Aisha Patel",
+    "initials": "AP",
+    "intro": "A graduate student who values focused afternoons and direct, considerate conversations.",
+    "answers": {
+      "structured": {
+        "bedtime": "23:30",
+        "pets": "0",
+        "work": "2",
+        "visitors": "0",
+        "overnight": "1",
+        "relationship": "0",
+        "noise": "0",
+        "wake": "07:30",
+        "smoking": "0",
+        "clean": "1"
+      },
+      "open": {
+        "dishes": "A few hours is fine, but I would ask us to clear the sink before it blocks someone else.",
+        "chores": "A shared checklist works for me. If work gets busy, I would trade a task in advance rather than skip it.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I study at my desk until eight, then eat and unwind with a book.",
+        "disagreements": "A brief message to arrange a chat works best for me. I would hear your priorities and suggest alternating use of the living room.",
+        "boundaries": "I need uninterrupted quiet during afternoon research calls."
+      }
+    },
+    "boundaries": [
+      "I need uninterrupted quiet during afternoon research calls.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "A few hours is fine, but I would ask us to clear the sink before it blocks someone else."
+    ]
+  },
+  {
+    "id": "noah",
+    "name": "Noah Brooks",
+    "initials": "NB",
+    "intro": "A bartender with late shifts who keeps mornings quiet and shared spaces tidy.",
+    "answers": {
+      "structured": {
+        "bedtime": "03:00",
+        "pets": "1",
+        "work": "0",
+        "visitors": "1",
+        "overnight": "2",
+        "relationship": "1",
+        "noise": "1",
+        "wake": "11:00",
+        "smoking": "0",
+        "clean": "2"
+      },
+      "open": {
+        "dishes": "I can leave dishes until evening; repeated overnight mess deserves a calm conversation.",
+        "chores": "I would rotate bathroom, floors, and bins each week, while everyone handles their own dishes.",
+        "guests": "One or two nights a week is fine with advance notice and respect for shared spaces.",
+        "evening": "I return from a late shift and make a quiet snack before sleeping.",
+        "disagreements": "I prefer a direct, private conversation once we have both had time to cool down. For conflicting plans, I would agree on a schedule.",
+        "boundaries": "I cannot promise an early bedtime, but will use headphones when I get home."
+      }
+    },
+    "boundaries": [
+      "I cannot promise an early bedtime, but will use headphones when I get home.",
+      "One or two nights a week is fine with advance notice and respect for shared spaces.",
+      "I can leave dishes until evening; repeated overnight mess deserves a calm conversation."
+    ]
+  },
+  {
+    "id": "sofia",
+    "name": "Sofia Alvarez",
+    "initials": "SA",
+    "intro": "A remote product designer with a cat, a plant collection, and a love of shared dinners.",
+    "answers": {
+      "structured": {
+        "bedtime": "23:00",
+        "pets": "1",
+        "work": "2",
+        "visitors": "1",
+        "overnight": "1",
+        "relationship": "2",
+        "noise": "1",
+        "wake": "07:00",
+        "smoking": "0",
+        "clean": "0"
+      },
+      "open": {
+        "dishes": "I wash dishes immediately and would ask us to do the same after every meal.",
+        "chores": "I like each person owning a few regular chores, then checking monthly that the split still feels fair.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I feed my cat, cook dinner, and like a short chat before reading.",
+        "disagreements": "Please raise issues early. I like talking over tea and writing down any practical agreement so we both remember it.",
+        "boundaries": "My cat will live with me; keeping the litter area clean is my responsibility."
+      }
+    },
+    "boundaries": [
+      "My cat will live with me; keeping the litter area clean is my responsibility.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "I wash dishes immediately and would ask us to do the same after every meal."
+    ]
+  },
+  {
+    "id": "ethan",
+    "name": "Ethan Park",
+    "initials": "EP",
+    "intro": "A software student who likes independent routines, late coding sessions, and clear chore lists.",
+    "answers": {
+      "structured": {
+        "bedtime": "01:30",
+        "pets": "0",
+        "work": "2",
+        "visitors": "0",
+        "overnight": "0",
+        "relationship": "0",
+        "noise": "2",
+        "wake": "09:30",
+        "smoking": "0",
+        "clean": "3"
+      },
+      "open": {
+        "dishes": "I am comfortable cleaning the next morning, as long as there is room for others to cook.",
+        "chores": "A shared checklist works for me. If work gets busy, I would trade a task in advance rather than skip it.",
+        "guests": "I do not want overnight guests in our shared home. Daytime visits can be discussed.",
+        "evening": "I work on coding projects at night, usually wearing headphones.",
+        "disagreements": "A brief message to arrange a chat works best for me. I would hear your priorities and suggest alternating use of the living room.",
+        "boundaries": "I prefer no overnight guests; I need the apartment to feel private."
+      }
+    },
+    "boundaries": [
+      "I prefer no overnight guests; I need the apartment to feel private.",
+      "I do not want overnight guests in our shared home. Daytime visits can be discussed.",
+      "I am comfortable cleaning the next morning, as long as there is room for others to cook."
+    ]
+  },
+  {
+    "id": "zara",
+    "name": "Zara Ahmed",
+    "initials": "ZA",
+    "intro": "A teacher who likes an organized home, early nights, and relaxed weekend brunches.",
+    "answers": {
+      "structured": {
+        "bedtime": "22:00",
+        "pets": "0",
+        "work": "0",
+        "visitors": "1",
+        "overnight": "1",
+        "relationship": "1",
+        "noise": "1",
+        "wake": "06:00",
+        "smoking": "0",
+        "clean": "0"
+      },
+      "open": {
+        "dishes": "I wash dishes immediately and would ask us to do the same after every meal.",
+        "chores": "I would rotate bathroom, floors, and bins each week, while everyone handles their own dishes.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I prepare lessons for the next day, eat early, and wind down without the TV.",
+        "disagreements": "I prefer a direct, private conversation once we have both had time to cool down. For conflicting plans, I would agree on a schedule.",
+        "boundaries": "I need weekday quiet after ten and a smoke-free home."
+      }
+    },
+    "boundaries": [
+      "I need weekday quiet after ten and a smoke-free home.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "I wash dishes immediately and would ask us to do the same after every meal."
+    ]
+  },
+  {
+    "id": "oliver",
+    "name": "Oliver James",
+    "initials": "OJ",
+    "intro": "A music-shop assistant who enjoys a sociable home and practices with headphones.",
+    "answers": {
+      "structured": {
+        "bedtime": "00:30",
+        "pets": "1",
+        "work": "0",
+        "visitors": "3",
+        "overnight": "2",
+        "relationship": "2",
+        "noise": "3",
+        "wake": "08:30",
+        "smoking": "1",
+        "clean": "2"
+      },
+      "open": {
+        "dishes": "I can leave dishes until evening; repeated overnight mess deserves a calm conversation.",
+        "chores": "I like each person owning a few regular chores, then checking monthly that the split still feels fair.",
+        "guests": "One or two nights a week is fine with advance notice and respect for shared spaces.",
+        "evening": "I have friends over for food or work on music with headphones.",
+        "disagreements": "Please raise issues early. I like talking over tea and writing down any practical agreement so we both remember it.",
+        "boundaries": "I want regular visitors; I can agree to quiet nights before early shifts."
+      }
+    },
+    "boundaries": [
+      "I want regular visitors; I can agree to quiet nights before early shifts.",
+      "One or two nights a week is fine with advance notice and respect for shared spaces.",
+      "I can leave dishes until evening; repeated overnight mess deserves a calm conversation."
+    ]
+  },
+  {
+    "id": "priya",
+    "name": "Priya Nair",
+    "initials": "PN",
+    "intro": "A hybrid analyst who balances solo downtime with an occasional dinner together.",
+    "answers": {
+      "structured": {
+        "bedtime": "23:00",
+        "pets": "1",
+        "work": "1",
+        "visitors": "1",
+        "overnight": "1",
+        "relationship": "1",
+        "noise": "1",
+        "wake": "07:30",
+        "smoking": "0",
+        "clean": "1"
+      },
+      "open": {
+        "dishes": "A few hours is fine, but I would ask us to clear the sink before it blocks someone else.",
+        "chores": "A shared checklist works for me. If work gets busy, I would trade a task in advance rather than skip it.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I go for a run, make dinner, and watch one episode before bed.",
+        "disagreements": "A brief message to arrange a chat works best for me. I would hear your priorities and suggest alternating use of the living room.",
+        "boundaries": "I am flexible on weekend plans, but need notice before overnight visitors."
+      }
+    },
+    "boundaries": [
+      "I am flexible on weekend plans, but need notice before overnight visitors.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "A few hours is fine, but I would ask us to clear the sink before it blocks someone else."
+    ]
+  },
+  {
+    "id": "ben",
+    "name": "Ben Carter",
+    "initials": "BC",
+    "intro": "A dog owner and outdoor enthusiast who starts the day early and spends most days out.",
+    "answers": {
+      "structured": {
+        "bedtime": "21:30",
+        "pets": "1",
+        "work": "0",
+        "visitors": "2",
+        "overnight": "2",
+        "relationship": "1",
+        "noise": "2",
+        "wake": "05:30",
+        "smoking": "0",
+        "clean": "1"
+      },
+      "open": {
+        "dishes": "A few hours is fine, but I would ask us to clear the sink before it blocks someone else.",
+        "chores": "I would rotate bathroom, floors, and bins each week, while everyone handles their own dishes.",
+        "guests": "One or two nights a week is fine with advance notice and respect for shared spaces.",
+        "evening": "I walk my dog, make a simple dinner, and turn in early.",
+        "disagreements": "I prefer a direct, private conversation once we have both had time to cool down. For conflicting plans, I would agree on a schedule.",
+        "boundaries": "My dog comes with me; I handle walks, shedding, and any pet-related damage."
+      }
+    },
+    "boundaries": [
+      "My dog comes with me; I handle walks, shedding, and any pet-related damage.",
+      "One or two nights a week is fine with advance notice and respect for shared spaces.",
+      "A few hours is fine, but I would ask us to clear the sink before it blocks someone else."
+    ]
+  },
+  {
+    "id": "jules",
+    "name": "Jules Martin",
+    "initials": "JM",
+    "intro": "A freelance illustrator who likes a lively workspace and friendships that develop naturally.",
+    "answers": {
+      "structured": {
+        "bedtime": "02:00",
+        "pets": "1",
+        "work": "2",
+        "visitors": "2",
+        "overnight": "3",
+        "relationship": "2",
+        "noise": "3",
+        "wake": "10:00",
+        "smoking": "1",
+        "clean": "3"
+      },
+      "open": {
+        "dishes": "I am comfortable cleaning the next morning, as long as there is room for others to cook.",
+        "chores": "I like each person owning a few regular chores, then checking monthly that the split still feels fair.",
+        "guests": "Several nights a week is fine, but a guest should not quietly become another resident.",
+        "evening": "I draw late, take breaks to talk, and sometimes invite a friend for dinner.",
+        "disagreements": "Please raise issues early. I like talking over tea and writing down any practical agreement so we both remember it.",
+        "boundaries": "I need flexibility for late creative work; I can keep it in my room at night."
+      }
+    },
+    "boundaries": [
+      "I need flexibility for late creative work; I can keep it in my room at night.",
+      "Several nights a week is fine, but a guest should not quietly become another resident.",
+      "I am comfortable cleaning the next morning, as long as there is room for others to cook."
+    ]
+  },
+  {
+    "id": "grace",
+    "name": "Grace Kim",
+    "initials": "GK",
+    "intro": "A librarian who likes predictable routines, spotless counters, and a peaceful home.",
+    "answers": {
+      "structured": {
+        "bedtime": "22:30",
+        "pets": "0",
+        "work": "0",
+        "visitors": "0",
+        "overnight": "0",
+        "relationship": "0",
+        "noise": "0",
+        "wake": "06:30",
+        "smoking": "0",
+        "clean": "0"
+      },
+      "open": {
+        "dishes": "I wash dishes immediately and would ask us to do the same after every meal.",
+        "chores": "A shared checklist works for me. If work gets busy, I would trade a task in advance rather than skip it.",
+        "guests": "I do not want overnight guests in our shared home. Daytime visits can be discussed.",
+        "evening": "I make dinner, clean the kitchen, and read quietly until bedtime.",
+        "disagreements": "A brief message to arrange a chat works best for me. I would hear your priorities and suggest alternating use of the living room.",
+        "boundaries": "I need a pet-free, smoke-free home and do not want overnight guests."
+      }
+    },
+    "boundaries": [
+      "I need a pet-free, smoke-free home and do not want overnight guests.",
+      "I do not want overnight guests in our shared home. Daytime visits can be discussed.",
+      "I wash dishes immediately and would ask us to do the same after every meal."
+    ]
+  },
+  {
+    "id": "marco",
+    "name": "Marco Rossi",
+    "initials": "MR",
+    "intro": "A chef who comes home late, cares about kitchen hygiene, and shares food generously.",
+    "answers": {
+      "structured": {
+        "bedtime": "02:30",
+        "pets": "1",
+        "work": "0",
+        "visitors": "2",
+        "overnight": "1",
+        "relationship": "1",
+        "noise": "2",
+        "wake": "10:30",
+        "smoking": "0",
+        "clean": "0"
+      },
+      "open": {
+        "dishes": "I wash dishes immediately and would ask us to do the same after every meal.",
+        "chores": "I would rotate bathroom, floors, and bins each week, while everyone handles their own dishes.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "After service I shower, have a small meal, and relax with headphones.",
+        "disagreements": "I prefer a direct, private conversation once we have both had time to cool down. For conflicting plans, I would agree on a schedule.",
+        "boundaries": "My shifts end late, but I always leave the kitchen ready for the next person."
+      }
+    },
+    "boundaries": [
+      "My shifts end late, but I always leave the kitchen ready for the next person.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "I wash dishes immediately and would ask us to do the same after every meal."
+    ]
+  },
+  {
+    "id": "imani",
+    "name": "Imani Davis",
+    "initials": "ID",
+    "intro": "A community organizer who works hybrid hours and likes a welcoming, communicative home.",
+    "answers": {
+      "structured": {
+        "bedtime": "00:00",
+        "pets": "1",
+        "work": "1",
+        "visitors": "3",
+        "overnight": "2",
+        "relationship": "2",
+        "noise": "2",
+        "wake": "08:00",
+        "smoking": "0",
+        "clean": "1"
+      },
+      "open": {
+        "dishes": "A few hours is fine, but I would ask us to clear the sink before it blocks someone else.",
+        "chores": "I like each person owning a few regular chores, then checking monthly that the split still feels fair.",
+        "guests": "One or two nights a week is fine with advance notice and respect for shared spaces.",
+        "evening": "I often have a meeting, then cook and catch up with whoever is home.",
+        "disagreements": "Please raise issues early. I like talking over tea and writing down any practical agreement so we both remember it.",
+        "boundaries": "Friends are part of my weekly routine; I will coordinate use of shared space."
+      }
+    },
+    "boundaries": [
+      "Friends are part of my weekly routine; I will coordinate use of shared space.",
+      "One or two nights a week is fine with advance notice and respect for shared spaces.",
+      "A few hours is fine, but I would ask us to clear the sink before it blocks someone else."
+    ]
+  },
+  {
+    "id": "sam",
+    "name": "Sam Wilson",
+    "initials": "SW",
+    "intro": "A remote technical writer who prefers independence, quiet calls, and flexible weekends.",
+    "answers": {
+      "structured": {
+        "bedtime": "00:30",
+        "pets": "0",
+        "work": "2",
+        "visitors": "0",
+        "overnight": "1",
+        "relationship": "0",
+        "noise": "0",
+        "wake": "08:00",
+        "smoking": "0",
+        "clean": "2"
+      },
+      "open": {
+        "dishes": "I can leave dishes until evening; repeated overnight mess deserves a calm conversation.",
+        "chores": "A shared checklist works for me. If work gets busy, I would trade a task in advance rather than skip it.",
+        "guests": "One or two nights a month works with a day of notice and no guest left alone.",
+        "evening": "I close my laptop, cook alone, and play games quietly in my room.",
+        "disagreements": "A brief message to arrange a chat works best for me. I would hear your priorities and suggest alternating use of the living room.",
+        "boundaries": "I need quiet for recorded interviews and prefer to keep social plans separate."
+      }
+    },
+    "boundaries": [
+      "I need quiet for recorded interviews and prefer to keep social plans separate.",
+      "One or two nights a month works with a day of notice and no guest left alone.",
+      "I can leave dishes until evening; repeated overnight mess deserves a calm conversation."
+    ]
+  }
+]
